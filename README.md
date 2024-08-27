@@ -27,8 +27,8 @@ src="https://img.shields.io/github/followers/aayushx402?logo=github&style=for-th
 </a>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Page%20Views-36,259-6A0DAD?style=for-the-badge" alt="Static page view badge" />
-  <img src="https://img.shields.io/badge/dynamic/json?color=6A0DAD&label=Profile%20Views&query=value&url=https://visitor-badge.laobi.icu/badge?page_id=aayushx402.aayushx402&style=for-the-badge" alt="Dynamic profile view count badge" />
+  
+ ![Profile Views](https://img.shields.io/endpoint?url=https://visitor-badge.laobi.icu/badge?page_id=aayushx402.aayushx402&style=for-the-badge)
 </p>
 
 
