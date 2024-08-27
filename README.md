@@ -26,6 +26,6 @@ src="https://img.shields.io/github/followers/aayushx402?logo=github&style=for-th
   <img src="https://img.shields.io/badge/Follow%20on%20X-%23000000.svg?logo=x&style=for-the-badge&labelColor=black&color=22c55e&logoColor=white" alt="Follow on X" />
 </a>
 
-<img src="https://img.shields.io/badge/dynamic/json?color=6A0DAD&label=Profile%20Views&query=value&url=https://visitor-badge.laobi.icu/badge?page_id=aayushx402.aayushx402&style=for-the-badge" alt="Dynamic profile view count badge" />
-
+<p align="center"><img src="https://img.shields.io/badge/dynamic/json?color=6A0DAD&label=Profile%20Views&query=value&url=https://visitor-badge.laobi.icu/badge?page_id=aayushx402.aayushx402&style=for-the-badge" alt="Dynamic profile view count badge" />
+</p>
 
