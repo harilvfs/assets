@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github.com/aayushx402/images/blob/main/github-gifs/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif">
+</p>
+
+<p align="center">
   <a href="https://chalisehari.com.np" target="_blank" rel="noreferrer"><img src="https://github.com/aayushx402/Linux-Background/blob/main/logo/20240804_005103.png"></a>
 </p>
 
@@ -23,6 +27,4 @@ src="https://img.shields.io/github/followers/aayushx402?logo=github&style=for-th
 </a>
 </p> 
 
-<p align="center">
-  <img src="https://github.com/aayushx402/images/blob/main/github-gifs/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif">
-</p>
+
