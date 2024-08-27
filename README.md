@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/aayushx402/images/blob/main/github-gifs/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-</p>
-
-<p align="center">
   <a href="https://chalisehari.com.np" target="_blank" rel="noreferrer"><img src="https://github.com/aayushx402/Linux-Background/blob/main/logo/20240804_005103.png"></a>
 </p>
 
