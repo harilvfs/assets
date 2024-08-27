@@ -6,6 +6,7 @@
 <p align="center">
   <!-- Centered Text -->
   <strong>.:: Connect with us on Social ::.</strong>
+ 
 <br>
   <!-- Reddit Badge with link -->
   <a href="https://reddit.com/u/aayush-le">
