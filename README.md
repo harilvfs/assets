@@ -6,7 +6,7 @@
 <p align="center">
   <!-- Centered Text -->
   <strong>.:: Connect with us on Social ::.</strong>
-
+<br>
   <!-- Reddit Badge with link -->
   <a href="https://reddit.com/u/aayush-le">
     <img src="https://img.shields.io/badge/Reddit-Join-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
