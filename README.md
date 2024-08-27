@@ -5,7 +5,7 @@
  
 <p align="center">
   <!-- Centered Text -->
-  <strong>:: Connect with us on Social ::</strong>
+  <strong>.:: Connect with us on Social ::.</strong>
 </p>
 
 <p align="center">
