@@ -2,7 +2,7 @@
 
 ![Repo View](https://komarev.com/ghpvc/?username=aayushx402&style=for-the-badge&color=blue)
 
-[![Sponsor Me](https://img.shields.io/badge/Sponsor_Me♡-black?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/aayushx402/images/main/QR/photo_2024-09-08_00-18-37.webp)
+[![Sponsor Me](https://img.shields.io/badge/Sponsor_Me♡-black?style=for-the-badge&logo=heart)](https://raw.githubusercontent.com/aayushx402/images/main/QR/photo_2024-09-08_00-18-37.webp)
 
 
 
