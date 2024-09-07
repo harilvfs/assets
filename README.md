@@ -5,7 +5,7 @@
   
 [![Sponsor Me](https://img.shields.io/badge/aayushx402-SPONSOR-cyan?style=for-the-badge&logo=github)](https://github.com/aayushx402/images/blob/main/QR) </p>
 
-<div style="text-align: center;">
+<div style="center">
     <a href="https://github.com/aayushx402/images/blob/main/QR">
         <img src="https://img.shields.io/badge/aayushx402-SPONSOR-cyan?style=for-the-badge&logo=github" alt="Sponsor Me">
     </a>
