@@ -21,6 +21,7 @@
   </a>
 </p>
 
+[![Scan to Pay](https://img.shields.io/badge/Scan_to_Pay-QR_Code-blue)](https://github.com/yourusername/yourrepository/raw/main/qrcode.png)
 
 
 
