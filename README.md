@@ -14,9 +14,12 @@
 ### Socials
 
 <p align="left">
+  <!-- Behance -->
   <a href="https://www.behance.com/aayushchalese" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" style="filter: invert(23%) sepia(26%) saturate(3556%) hue-rotate(186deg) brightness(92%) contrast(91%);" />
-  </a><a href="https://discord.com/users/sheron_x" target="_blank" rel="noreferrer">
+  </a>
+  <!-- Discord -->
+  <a href="https://discord.com/users/sheron_x" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" style="filter: invert(29%) sepia(3%) saturate(2388%) hue-rotate(177deg) brightness(89%) contrast(90%);" />
   </a>
   <!-- GitHub -->
@@ -48,10 +51,3 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" style="filter: invert(10%) sepia(8%) saturate(3186%) hue-rotate(260deg) brightness(92%) contrast(93%);" />
   </a>
 </p>
-
-
-
-
-
-
-
