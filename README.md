@@ -9,7 +9,7 @@
 </div>
 
 ![OS](https://img.shields.io/badge/OS-Linux-EBEBED?style=for-the-badge&logo=linux&logoColor=yellow&labelColor=gray)
-![Distro](https://img.shields.io/badge/Distro-Arch-E0FFFF?style=for-the-badge&logo=arch-linux&logoColor=blue&labelColor=gray)
+![Distro](https://img.shields.io/badge/Distro-Arch-00CED1?style=for-the-badge&logo=arch-linux&logoColor=blue&labelColor=gray)
 
 
 
