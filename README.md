@@ -12,7 +12,7 @@
 ![Distro](https://img.shields.io/badge/Distro-Arch-00CED1?style=for-the-badge&logo=arch-linux&logoColor=blue&labelColor=gray)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aayushx402&label=PAGE+VIEWS&style=for-the-badge&color=blueviolet" alt="PAGE VIEWS">
+  <img src="https://komarev.com/ghpvc/?username=aayushx402&label=PAGE+VIEWS&style=for-the-badge&color=blueviolet&logo=github" alt="PAGE VIEWS">
 </p>
 
 
