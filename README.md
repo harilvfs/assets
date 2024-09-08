@@ -11,6 +11,10 @@
 ![OS](https://img.shields.io/badge/OS-Linux-FF6961?style=for-the-badge&logo=linux&logoColor=yellow&labelColor=gray)
 ![Distro](https://img.shields.io/badge/Distro-Arch-00CED1?style=for-the-badge&logo=arch-linux&logoColor=blue&labelColor=gray)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aayushx402&style=for-the-badge&color=blue" alt="Page Views">
+</p>
+
 
 
 
