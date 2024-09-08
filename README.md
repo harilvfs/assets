@@ -24,7 +24,7 @@
 
 <div align="center">
   <a href="https://raw.githubusercontent.com/aayushx402/images/main/QR/mobilebanking.webp">
-    <img src="https://img.shields.io/badge/XEROLINUX-SPONSOR-purple?style=for-the-badge&logo=github-sponsors&logoColor=ff69b4&labelColor=gray" alt="Sponsor Me" />
+    <img src="https://img.shields.io/badge/AAYUSHX402-SPONSOR-purple?style=for-the-badge&logo=github-sponsors&logoColor=ff69b4&labelColor=gray" alt="Sponsor Me" />
   </a>
 </div>
 
