@@ -8,8 +8,9 @@
   </a>
 </div>
 
-![OS](https://img.shields.io/badge/OS-Linux-FCC624?logo=linux&logoColor=white)
-![Distro](https://img.shields.io/badge/Distro-Arch-blue?logo=arch-linux&logoColor=white)
+![OS](https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=gray)
+![Distro](https://img.shields.io/badge/Distro-Arch-1793D1?style=flat-square&logo=arch-linux&logoColor=white&labelColor=gray)
+
 
 
 
