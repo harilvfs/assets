@@ -8,7 +8,9 @@
   </a>
 </div>
 
-![Repo View](https://komarev.com/ghpvc/?username=aayushx402&style=for-the-badge&color=555555)
+![OS](https://img.shields.io/badge/OS-Linux-FCC624?logo=linux&logoColor=white)
+![Distro](https://img.shields.io/badge/Distro-Arch-blue?logo=arch-linux&logoColor=white)
+
 
 
 
