@@ -2,7 +2,7 @@
 
 ![Repo View](https://komarev.com/ghpvc/?username=aayushx402&style=for-the-badge&color=blueviolet)
 
-# **Aayush's 'Linux Project'** <img src='https://github.com/aayushx402/images/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30">
+# **Aayush's 'Linux Project'** <img src='https://github.com/aayushx402/images/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="40">
 
 [![Version](https://img.shields.io/github/v/release/aayushx402/linux-project?color=%230567ff&label=Latest%20Release&style=for-the-badge)](https://github.com/aayushx402/linux-project/releases/latest)
 
