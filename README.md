@@ -2,4 +2,6 @@
 
 ![Repo View](https://komarev.com/ghpvc/?username=aayushx402&style=for-the-badge&color=blueviolet)
 
+<img src='https://github.com/harilvfs/assets/blob/main/github-gifs/mario.gif' width="500">
+
 <img src='https://github.com/harilvfs/assets/blob/main/github-gifs/laptop.gif' width="300"> 
