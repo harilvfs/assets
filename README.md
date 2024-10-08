@@ -51,7 +51,7 @@
 </p>
 
 <p align="center">
-<img src='https://github.com/harilvfs/assets/blob/main/github-gifs/laptop.gif' width="300">
+  <img src="https://komarev.com/ghpvc/?username=aayushx402&label=PROFILE+VIEWS&style=for-the-badge&color=blue" alt="PROFILE  VIEWS">
 </p>
 
 ### Socials
