@@ -26,10 +26,6 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/harilvfs/assets/blob/main/github-gifs/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif">
-</p>
-
-<p align="center">
 <strong>.:: Connect with us on Social ::.</strong>
 <br>
 
