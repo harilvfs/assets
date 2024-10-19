@@ -5,3 +5,8 @@
 <img src='https://github.com/harilvfs/assets/blob/main/github-gifs/mario.gif' width="500">
   
 [![Join on Discord](https://discord.com/api/guilds/757266205408100413/widget.png?style=shield)](https://discord.gg/TAaVXT95)
+
+<a href="https://www.twitch.tv/aayushchalese">
+    <img src="https://img.shields.io/badge/Twitch-Follow-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+</a>
+
