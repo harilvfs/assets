@@ -15,6 +15,7 @@
  <a href="https://discord.gg/TAaVXT95">
     <img src="https://img.shields.io/discord/757266205408100413?label=Discord&color=5865F2" />
   </a>
+  
 ![Github Followers](https://img.shields.io/github/followers/harilvfs)
 ![Reddit](https://img.shields.io/reddit/user-karma/combined/aayush-le)
 <a href="https://x.com/harilvfs">
@@ -23,6 +24,7 @@
 <a href="https://instagram.com/harilvfs">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
   </a>
+  
 ![Youtube](https://img.shields.io/youtube/channel/subscribers/UCxWo4QN4m72x8F5Pzrjg9Ew)
 ![Twitch Status](https://img.shields.io/twitch/status/aayushchalese)
 </div>
