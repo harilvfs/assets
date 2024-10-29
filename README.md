@@ -2,10 +2,6 @@
 <strong>*Note*: This is for archival purposes only. Please do not use or modify this content.</strong>
 </div>
 
-<a href="https://reddit.com/u/aayush-le">
-<img src="https://img.shields.io/badge/Medium-Follow-FF4500?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-
 <div align="center">
 
 <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/linux.png' width="80"> <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/terminsl.png' width="80"> <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/listen.png' width="80"> 
