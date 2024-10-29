@@ -1,5 +1,5 @@
 <div align="center">
-<img src='https://github.com/harilvfs/assets/blob/main/harilvfs/gpd.png' width="70">
+<img src='https://github.com/harilvfs/assets/blob/main/harilvfs/social.png' width="100">
 </div>
 <br>
 <div align="center">
