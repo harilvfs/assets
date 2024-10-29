@@ -4,8 +4,11 @@
 <br>
 <div align="left">
 
-ㅤㅤㅤㅤㅤㅤㅤ**GitHub <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/noseek.png' width="15"> Stats** 
+ㅤㅤ**GitHub <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/noseek.png' width="15"> Stats** 
 </div>
+
+<p align="left"><img src="https://raw.githubusercontent.com/harilvfs/harilvfs/refs/heads/main/github-metrics.svg" /></p>
+
 
 <div align="center">
 
