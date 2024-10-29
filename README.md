@@ -1,6 +1,11 @@
 <div align="center">
 <strong> Note: This is for archival purposes only. Please do not use or modify this content. </strong>
 </div>
+<br>
+<div align="left">
+
+**GitHub <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/noseek.png' width="15"> Stats** 
+</div>
 
 <div align="center">
 
