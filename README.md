@@ -2,7 +2,7 @@
 <strong> Note: This is for archival purposes only. Please do not use or modify this content. </strong>
 </div>
 
-![Github Followers](https://img.shields.io/github/followers/harilvfs?color=blue)
+![Github Followers](https://img.shields.io/github/followers/harilvfs?logocolor=blue)
 ![Reddit](https://img.shields.io/reddit/user-karma/combined/aayush-le)
 <a href="https://x.com/harilvfs">
     <img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white" />
