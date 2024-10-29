@@ -3,6 +3,37 @@
 </div>
 
 <div align="center">
+  <a href="https://github.com/harilvfs" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" alt="GitHub" />
+  </a>
+  <a href="https://reddit.com/u/aayush-le" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/30/FF4500/reddit.png" alt="Reddit" />
+  </a>
+  <a href="https://instagram.com/harilvfs" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/30/E4405F/instagram.png" alt="Instagram" />
+  </a>
+  <a href="https://t.me/harilvfs" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/30/0088CC/telegram.png" alt="Telegram" />
+  </a>
+  <a href="https://discord.gg/8NJWstnUHd" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/30/5865F2/discord.png" alt="Discord" />
+  </a>
+  <a href="https://www.twitch.tv/aayushchalese" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/30/9146FF/twitch.png" alt="Twitch" />
+  </a>
+  <a href="https://medium.com/@aayushchalise" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/medium.png" alt="Medium" />
+  </a>
+  <a href="https://behance.net/aayushchalese" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/30/1769FF/behance.png" alt="Behance" />
+  </a>
+  <a href="https://codeberg.org/aayushchalise.rss" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/30/FFA500/rss.png" alt="RSS" />
+  </a>
+</div>
+
+
+<div align="center">
 
 <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/linux.png' width="80"> <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/terminsl.png' width="80"> <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/listen.png' width="80"> 
 </div>
