@@ -5,10 +5,7 @@
 <!-- Medium -->
 <a href="https://medium.com/@aayush-le">
   <img src="https://img.shields.io/badge/Medium-Follow-000000?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-
-<!-- Behance -->
-<a href="https://behance.net/aayush-le">
+</a> <a href="https://behance.net/aayush-le">
   <img src="https://img.shields.io/badge/Behance-Follow-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
 </a>
 
