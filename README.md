@@ -1,5 +1,5 @@
 <div align="center">
-<strong>*Note*: This is for archival purposes only. Please do not use or modify this content.</strong>
+<strong> Note: This is for archival purposes only. Please do not use or modify this content. </strong>
 </div>
 
 <p align="center">
