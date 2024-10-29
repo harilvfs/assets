@@ -7,6 +7,8 @@
 <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/linux.png' width="80"> <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/terminsl.png' width="80"> <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/listen.png' width="80"> 
 </div>
 
+<div align="center">
+
 ![Repo View](https://komarev.com/ghpvc/?username=aayushx402&style=for-the-badge&color=blueviolet)
 
 <img src='https://github.com/harilvfs/assets/blob/main/github-gifs/mario.gif' width="500">
@@ -52,3 +54,4 @@
          <img height="24px" src="https://user-images.githubusercontent.com/13122796/178032714-c51c7492-0666-44ac-99c2-f003a695ab50.png" />
      </picture>
    </a>
+</div>
