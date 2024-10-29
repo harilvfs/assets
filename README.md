@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src='https://github.com/harilvfs/assets/blob/main/harilvfs/noseek.png' width="20"> **GitHub Stats** 
+<img src='https://github.com/harilvfs/assets/blob/main/harilvfs/noseek.png' width="15"> **GitHub Stats** 
 </div>
 
 <div align="center">
