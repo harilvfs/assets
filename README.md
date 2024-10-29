@@ -14,6 +14,25 @@
 
 <div align="center">
 
+ <img src='https://github.com/harilvfs/assets/blob/main/github-gifs/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif' width="40">
+  
+ <a href="https://discord.com/invite/8NJWstnUHd">
+    <img src="https://img.shields.io/discord/757266205408100413?label=Discord&color=5865F2&logo=discord" />
+  </a>
+  
+![Github Followers](https://img.shields.io/github/followers/harilvfs)
+![Reddit](https://img.shields.io/reddit/user-karma/combined/aayush-le)
+<a href="https://x.com/harilvfs">
+    <img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white" />
+  </a>
+  
+![Youtube](https://img.shields.io/youtube/channel/subscribers/UCxWo4QN4m72x8F5Pzrjg9Ew)
+![Twitch Status](https://img.shields.io/twitch/status/aayushchalese)
+</div>
+
+
+<div align="center">
+
 <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/linux.png' width="80"> <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/terminsl.png' width="80"> <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/listen.png' width="80"> 
 </div>
 
