@@ -4,33 +4,34 @@
 
 <div align="center">
   <a href="https://github.com/harilvfs" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" alt="GitHub" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="30" alt="GitHub" />
   </a>
   <a href="https://reddit.com/u/aayush-le" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/30/FF4500/reddit.png" alt="Reddit" />
+    <img src="https://upload.wikimedia.org/wikipedia/en/8/82/Reddit_logo_and_wordmark.svg" width="30" alt="Reddit" />
   </a>
   <a href="https://instagram.com/harilvfs" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/30/E4405F/instagram.png" alt="Instagram" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" alt="Instagram" />
   </a>
   <a href="https://t.me/harilvfs" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/30/0088CC/telegram.png" alt="Telegram" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="30" alt="Telegram" />
   </a>
   <a href="https://discord.gg/8NJWstnUHd" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/30/5865F2/discord.png" alt="Discord" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Discord_Icon.png" width="30" alt="Discord" />
   </a>
   <a href="https://www.twitch.tv/aayushchalese" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/30/9146FF/twitch.png" alt="Twitch" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Twitch_logo_2017.svg" width="30" alt="Twitch" />
   </a>
   <a href="https://medium.com/@aayushchalise" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/medium.png" alt="Medium" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" width="30" alt="Medium" />
   </a>
   <a href="https://behance.net/aayushchalese" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/30/1769FF/behance.png" alt="Behance" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Behance_logo.svg" width="30" alt="Behance" />
   </a>
   <a href="https://codeberg.org/aayushchalise.rss" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/30/FFA500/rss.png" alt="RSS" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Feed-icon.svg" width="30" alt="RSS" />
   </a>
 </div>
+
 
 
 <div align="center">
