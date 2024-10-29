@@ -2,7 +2,7 @@
 <strong> Note: This is for archival purposes only. Please do not use or modify this content. </strong>
 </div>
 <br>
-<p align="center">
+<div align="center">
 <strong>.:: Connect with us on Social ::.</strong>
 <br>
 
@@ -10,7 +10,7 @@
 
 <a href="https://instagram.com/harilvfs"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://t.me/harilvfs"><img src="https://img.shields.io/badge/Telegram-Join%20Chat-0088CC?style=for-the-badge&logo=telegram&logoColor=white" /></a> <a href="https://discord.gg/8NJWstnUHd"><img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a> <a href="https://www.twitch.tv/aayushchalese"><img src="https://img.shields.io/badge/Twitch-Follow-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a> <a href="https://medium.com/@aayushchalise"><img src="https://img.shields.io/badge/Medium-Follow-000000?style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://behance.net/aayushchalese"><img src="https://img.shields.io/badge/Behance-Follow-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a> <a href="https://medium.com/feed/@aayushchalise"><img src="https://img.shields.io/badge/RSS-Subscribe-FFA500?style=for-the-badge&logo=rss&logoColor=white" /></a>
 
-</p>
+</div>
 
 <div align="center">
 
