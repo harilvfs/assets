@@ -4,11 +4,6 @@
 
 <div align="center">
 
-<img src='https://github.com/harilvfs/assets/blob/main/harilvfs/noseek.png' width="15"> **GitHub Stats** 
-</div>
-
-<div align="center">
-
 <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/linux.png' width="80"> <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/terminsl.png' width="80"> <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/listen.png' width="80"> 
 </div>
 
