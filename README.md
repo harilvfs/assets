@@ -2,6 +2,11 @@
 <strong> Note: This is for archival purposes only. Please do not use or modify this content. </strong>
 </div>
 <br>
+<div align="left">
+
+ㅤ<img src='https://github.com/harilvfs/assets/blob/main/harilvfs/noseek.png' width="20"> 
+## GitHub Stats 
+</div>
 
 <div align="center">
 
