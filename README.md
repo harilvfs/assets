@@ -15,7 +15,9 @@
 <div align="center">
 
  <img src='https://github.com/harilvfs/assets/blob/main/github-gifs/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif' width="40">
-  
+ </div>
+
+ <div align="center">
  <a href="https://discord.com/invite/8NJWstnUHd">
     <img src="https://img.shields.io/discord/757266205408100413?label=Discord&color=5865F2&logo=discord" />
   </a>
