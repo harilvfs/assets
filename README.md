@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src='https://github.com/harilvfs/assets/blob/main/harilvfs/linux.png' width="70">
+<img src='https://github.com/harilvfs/assets/blob/main/harilvfs/linux.png' width="80">
 </div>
 
 
