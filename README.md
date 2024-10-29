@@ -2,6 +2,27 @@
 <strong>*Note*: This is for archival purposes only. Please do not use or modify this content.</strong>
 </div>
 
+<!-- Medium -->
+<a href="https://medium.com/@aayush-le">
+  <img src="https://img.shields.io/badge/Medium-Join-000000?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
+<!-- Behance -->
+<a href="https://behance.net/aayush-le">
+  <img src="https://img.shields.io/badge/Behance-Join-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
+</a>
+
+<!-- GitHub -->
+<a href="https://github.com/aayush-le">
+  <img src="https://img.shields.io/badge/GitHub-Join-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<!-- RSS -->
+<a href="https://aayush-le-rss-feed.com">
+  <img src="https://img.shields.io/badge/RSS-Subscribe-FFA500?style=for-the-badge&logo=rss&logoColor=white" />
+</a>
+
+
 <div align="center">
 
 <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/linux.png' width="80"> <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/terminsl.png' width="80"> <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/listen.png' width="80"> 
