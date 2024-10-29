@@ -3,7 +3,8 @@
 </div>
 
 <div align="center">
-### GitHub Stats <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/noseek.png' width="20">
+
+**GitHub Stats** <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/noseek.png' width="20">
 </div>
 
 <div align="center">
