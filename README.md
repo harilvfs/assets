@@ -2,10 +2,14 @@
 <strong> Note: This is for archival purposes only. Please do not use or modify this content. </strong>
 </div>
 
-<div align="center">
-<a href="https://github.com/harilvfs"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png" width="30" /></a> <a href="https://reddit.com/u/aayush-le"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Reddit.png" width="30" /></a> <a href="https://instagram.com/harilvfs"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png" width="30" /></a> <a href="https://t.me/harilvfs"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Telegram.png" width="30" /></a> <a href="https://discord.gg/8NJWstnUHd"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Discord.png" width="30" /></a> <a href="https://www.twitch.tv/aayushchalese"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitch.png" width="30" /></a> <a href="https://medium.com/@aayushchalise"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Medium.png" width="30" /></a> <a href="https://behance.net/aayushchalese"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Behance.png" width="30" /></a> <a href="https://codeberg.org/aayushchalise.rss"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/RSS.png" width="30" /></a>
-</div>
-
+![Github Followers](https://img.shields.io/github/followers/harilvfs?color=black)
+![Reddit](https://img.shields.io/reddit/user-karma/combined/aayush-le)
+<a href="https://x.com/harilvfs">
+    <img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white" />
+  </a>
+  
+![Youtube](https://img.shields.io/youtube/channel/subscribers/UCxWo4QN4m72x8F5Pzrjg9Ew)
+![Twitch Status](https://img.shields.io/twitch/status/aayushchalese)
 
 
 <div align="center">
