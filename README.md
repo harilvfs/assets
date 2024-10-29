@@ -2,16 +2,6 @@
 <strong> Note: This is for archival purposes only. Please do not use or modify this content. </strong>
 </div>
 
-![Github Followers](https://img.shields.io/github/followers/harilvfs?logocolor=blue)
-![Reddit](https://img.shields.io/reddit/user-karma/combined/aayush-le)
-<a href="https://x.com/harilvfs">
-    <img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white" />
-  </a>
-  
-![Youtube](https://img.shields.io/youtube/channel/subscribers/UCxWo4QN4m72x8F5Pzrjg9Ew)
-![Twitch Status](https://img.shields.io/twitch/status/aayushchalese)
-
-
 <div align="center">
 
 <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/linux.png' width="80"> <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/terminsl.png' width="80"> <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/listen.png' width="80"> 
