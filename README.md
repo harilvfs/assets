@@ -57,8 +57,8 @@
    </a>&nbsp;&nbsp;&nbsp;
    <a href="https://bsky.app/profile/chalisehari.com.np">
       <picture>
-         <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/bluesky/Bluesky_app_icon.svg" />
-         <img height="24px" src="https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/bluesky/Bluesky_app_icon.svg" />
+         <source height="25px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/bluesky/Bluesky_app_icon.svg" />
+         <img height="25px" src="https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/bluesky/Bluesky_app_icon.svg" />
      </picture>
    </a>
 </div>
