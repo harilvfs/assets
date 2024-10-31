@@ -48,6 +48,7 @@ src="https://img.shields.io/twitch/status/aayushchalese?logo=twitchsx&style=for-
 </div>
 <br>
 <div align="center">
+<a href="https://discord.com/invite/8NJWstnUHd"><img alt="Discord Server" height="30" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_vector.svg"></a>
   
 ![Discord](https://img.shields.io/discord/757266205408100413?logo=discord&color=blue)
 </div>
