@@ -46,6 +46,7 @@ src="https://img.shields.io/twitch/status/aayushchalese?logo=twitchsx&style=for-
      </picture>
    </a>
 </div>
+<br>
 <div align="center">
   
 ![Discord](https://img.shields.io/discord/757266205408100413?logo=discord&color=blue)
