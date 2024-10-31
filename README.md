@@ -50,8 +50,6 @@ src="https://img.shields.io/twitch/status/aayushchalese?logo=twitchsx&style=for-
 <div align="center">
   
 [![Join on Discord](https://discord.com/api/guilds/757266205408100413/widget.png?style=shield)](https://discord.gg/TAaVXT95)
-  
-![Discord](https://img.shields.io/discord/757266205408100413?logo=discord&color=blue)
 </div>
 
 <div align="center">
