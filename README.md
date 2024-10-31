@@ -4,55 +4,6 @@
 <br>
 
 <div align="center">
-  <a href="https://opencollective.com/carch">
-    <img src="https://img.shields.io/badge/harilvfs-SPONSOR-9f39ef?style=for-the-badge&logo=github-sponsors&labelColor=2e2e2e" alt="Sponsor Me" />
-  </a>
-</div>
-<br>
-<div align="center">
-<a href="https://www.twitch.tv/aayushchalese" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/aayushchalese?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
-</div>
-<br>
-<div align="center">
-   <a href="https://discord.com/invite/8NJWstnUHd">
-       <picture>
-           <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/13122796/178032563-d4e084b7-244e-4358-af50-26bde6dd4996.png" />
-           <img height="24px" src="https://user-images.githubusercontent.com/13122796/178032563-d4e084b7-244e-4358-af50-26bde6dd4996.png" />
-       </picture>
-   </a>&nbsp;&nbsp;&nbsp;
-   <a href="https://t.me/harilvfs">
-      <picture>
-         <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/13122796/178032213-faf25ab8-0bc3-4a94-a730-b524c96df124.png" />
-         <img height="24px" src="https://user-images.githubusercontent.com/13122796/178032213-faf25ab8-0bc3-4a94-a730-b524c96df124.png" />
-      </picture>
-   </a>&nbsp;&nbsp;&nbsp;
-   <a href="https://medium.com/@aayushchalise">
-      <picture>
-         <source height="25px" media="(prefers-color-scheme: dark)" srcset="https://github.com/harilvfs/assets/blob/main/harilvfs/medium.png" />
-         <img height="25px" src="https://github.com/harilvfs/assets/blob/main/harilvfs/medium.png" />
-     </picture>
-   </a>&nbsp;&nbsp;&nbsp;
-   <a href="https://behance.com/aayushchalese">
-      <picture>
-         <source height="25px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/harilvfs/behancex.svg" />
-         <img height="25px" src="https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/harilvfs/behancex.svg" />
-     </picture>
-   </a>&nbsp;&nbsp;&nbsp;
-   <a href="https://bsky.app/profile/chalisehari.com.np">
-      <picture>
-         <source height="25px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/bluesky/Bluesky_app_icon.svg" />
-         <img height="25px" src="https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/bluesky/Bluesky_app_icon.svg" />
-     </picture>
-   </a>
-</div>
-<br>
-<div align="center">
-  
-[![Join on Discord](https://discord.com/api/guilds/757266205408100413/widget.png?style=shield)](https://discord.gg/TAaVXT95)
-</div>
-
-<div align="center">
 
 <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/linux.png' width="80"> <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/terminsl.png' width="80"> <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/listen.png' width="80"> 
 </div>
