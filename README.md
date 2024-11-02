@@ -17,7 +17,7 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Catppuccin-blue?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"> <img src="https://img.shields.io/badge/Nord-blue?style=for-the-badge&colorA=4c566a&colorB=88c0d0">
 </div>
-<br>
+
 <div align="center">
   <a href="https://opencollective.com/carch">
     <img src="https://img.shields.io/badge/harilvfs-SPONSOR-9f39ef?style=for-the-badge&logo=github-sponsors&labelColor=2e2e2e" alt="Sponsor Me" />
