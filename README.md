@@ -66,7 +66,7 @@ src="https://img.shields.io/twitch/status/aayushchalese?logo=twitchsx&style=for-
 
 <img src='https://github.com/harilvfs/assets/blob/main/music/guitar.png' width="30">
 </div>
-
+<br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aayushx402&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet" alt="PROFILE  VIEWS">
 </p>
