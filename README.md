@@ -66,7 +66,7 @@ src="https://img.shields.io/twitch/status/aayushchalese?logo=twitchsx&style=for-
 
 <div align="center>
   
-<img src="https://github.com/harilvfs/assets/blob/main/music/guitar.png" width="30">
+<img src='https://github.com/harilvfs/assets/blob/main/music/guitar.png' width="50">
 </div>
 
 <p align="center">
