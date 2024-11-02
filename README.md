@@ -2,8 +2,6 @@
 <strong> Note: This is for archival purposes only. Please do not use or modify this content. </strong>
 </div>
 <br>
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31lyar5jacn6sn7uu7ebnu6ziwtu)
 <div align="center">
 
 <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/linux.png' width="80"> <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/terminsl.png' width="80"> <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/listen.png' width="80"> 
