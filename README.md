@@ -4,7 +4,7 @@
 <br>
 <div align="center">
 
-<img src="https://img.shields.io/badge/Catppuccin_Theme?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+<img src="https://img.shields.io/badge/Catppuccin%20Theme?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
 
 <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/linux.png' width="80"> <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/terminsl.png' width="80"> <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/listen.png' width="80"> 
 </div>
