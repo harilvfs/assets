@@ -3,6 +3,9 @@
   <img src="https://img.shields.io/badge/Distro-Arch-00CED1?style=for-the-badge&logo=arch-linux&logoColor=blue&labelColor=gray" />
 </p>
 
+<img src="https://img.shields.io/badge/Catppuccin-blue?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"> <img src="https://github.com/harilvfs/assets/blob/main/themes/color-swatch-theme.png" width="30"> <img src="https://img.shields.io/badge/Nord-blue?style=for-the-badge&colorA=4c566a&colorB=88c0d0">
+</div>
+
 <div align="center">
   <a href="https://opencollective.com/carch">
     <img src="https://img.shields.io/badge/harilvfs-SPONSOR-9f39ef?style=for-the-badge&logo=github-sponsors&labelColor=2e2e2e" alt="Sponsor Me" />
@@ -55,8 +58,7 @@ src="https://img.shields.io/twitch/status/aayushchalese?logo=twitchsx&style=for-
 <img src="https://github.com/harilvfs/assets/blob/main/themes/themes.png" width="40">
 <br>
 
-<img src="https://img.shields.io/badge/Catppuccin-blue?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"> <img src="https://github.com/harilvfs/assets/blob/main/themes/color-swatch-theme.png" width="30"> <img src="https://img.shields.io/badge/Nord-blue?style=for-the-badge&colorA=4c566a&colorB=88c0d0">
-</div>
+
 <br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aayushx402&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet" alt="PROFILE  VIEWS">
