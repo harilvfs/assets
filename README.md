@@ -64,10 +64,9 @@ src="https://img.shields.io/twitch/status/aayushchalese?logo=twitchsx&style=for-
 <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/linux.png' width="80"> <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/terminsl.png' width="80"> <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/listen.png' width="80"> 
 </div>
 
-<div align="center>
-  
+
 <img src='https://github.com/harilvfs/assets/blob/main/music/guitar.png' width="50">
-</div>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aayushx402&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet" alt="PROFILE  VIEWS">
