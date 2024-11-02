@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-<img src="https://img.shields.io/badge/Catppuccin-blue?colorA=363a4f&colorB=b7bdf8&style=for-the-badge&logo=linux"> <img src="https://img.shields.io/badge/Nord-blue?style=for-the-badge&colorA=4c566a&colorB=88c0d0">
+<img src="https://img.shields.io/badge/Catppuccin-blue?colorA=363a4f&colorB=b7bdf8&style=for-the-badge&logo=linux"> <img src="https://img.shields.io/badge/Nord-blue?style=for-the-badge&colorA=4c566a&colorB=88c0d0&logo=linux">
 </div>
 <br>
 <div align="center">
