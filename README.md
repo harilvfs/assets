@@ -7,10 +7,6 @@
 </div>
 <br>
 
-<div align="center">
-<img src="https://github.com/harilvfs/assets/blob/main/themes/themes.png" width="40">
-<br>
-
 </div>
 
 <div align="center">
