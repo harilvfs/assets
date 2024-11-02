@@ -3,6 +3,7 @@
   <img src="https://img.shields.io/badge/Distro-Arch-00CED1?style=for-the-badge&logo=arch-linux&logoColor=blue&labelColor=gray" />
 </p>
 
+<div align="center">
 <img src="https://img.shields.io/badge/Catppuccin-blue?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"> <img src="https://github.com/harilvfs/assets/blob/main/themes/color-swatch-theme.png" width="30"> <img src="https://img.shields.io/badge/Nord-blue?style=for-the-badge&colorA=4c566a&colorB=88c0d0">
 </div>
 
