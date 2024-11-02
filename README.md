@@ -60,6 +60,7 @@ src="https://img.shields.io/twitch/status/aayushchalese?logo=twitchsx&style=for-
 <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/linux.png' width="80"> <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/terminsl.png' width="80"> <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/listen.png' width="80"> 
 
 <strong> Favorite Themes </strong>
+<br>
 <img src="https://img.shields.io/badge/Theme-Catppuccin-blue?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"> <img src="https://img.shields.io/badge/Theme-Nord-blue?style=for-the-badge&colorA=4c566a&colorB=88c0d0">
 </div>
 
