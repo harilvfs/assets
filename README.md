@@ -2,11 +2,8 @@
 <strong> Note: This is for archival purposes only. Please do not use or modify this content. </strong>
 </div>
 <br>
-
-<div align="center>
   
-<img src='https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/fyx/fyx.webp' width="100">
-</div>
+<img src='https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/fyx/fyx.webp' width="200">
 
 <div align="center">
 
