@@ -3,7 +3,7 @@
 </div>
 <br>
 
-<img src='https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/fyx/fyx.webp' width="500">
+<img src='https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/fyx/fyx.webp' width="100">
 
 <div align="center">
 
