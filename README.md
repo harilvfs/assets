@@ -2,9 +2,9 @@
 <strong> Note: This is for archival purposes only. Please do not use or modify this content. </strong>
 </div>
 <br>
-
+<div align="center>
 <img src='https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/fyx/fyx.webp' width="100">
-
+</div>
 <div align="center">
 
 <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/linux.png' width="80"> <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/terminsl.png' width="80"> <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/listen.png' width="80"> 
