@@ -1,5 +1,5 @@
 <div align="center">
-<img src='https://github.com/harilvfs/assets/blob/main/fyx/error.png' width="50">
+<img src='https://github.com/harilvfs/assets/blob/main/fyx/error.png' width="100">
 </div>
 <br>
 <div align="center">
