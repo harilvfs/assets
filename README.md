@@ -3,6 +3,8 @@
 </div>
 <br>
 
+<img src='https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/fyx/fyx.webp' width="500">
+
 <div align="center">
 
 <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/linux.png' width="80"> <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/terminsl.png' width="80"> <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/listen.png' width="80"> 
