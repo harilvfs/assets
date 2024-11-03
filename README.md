@@ -21,7 +21,7 @@
 </div>
 <div align="center">
 
-<img src="https://img.shields.io/badge/Catppuccin-blue?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"> <img src="https://img.shields.io/badge/Nord-orange?style=for-the-badge&colorA=4c566a&colorB=88c0d0">
+<img src="https://img.shields.io/badge/Catppuccin-blue?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"> <img src='https://github.com/harilvfs/assets/blob/main/themes/themes.png' width="30"> <img src="https://img.shields.io/badge/Nord-orange?style=for-the-badge&colorA=4c566a&colorB=88c0d0">
 </div>
 
 <div align="center">
