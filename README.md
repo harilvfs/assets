@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Distro-Arch-00CED1?style=for-the-badge&logo=arch-linux&logoColor=blue&labelColor=gray" />
 </div>
 <div align="center">
-<img src='https://github.com/harilvfs/assets/blob/main/themes/themes.png' width="50">
+<img src='https://github.com/harilvfs/assets/blob/main/themes/themes.png' width="30">
 </div>
 <div align="center">
 
