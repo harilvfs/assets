@@ -19,8 +19,8 @@
    </a>&nbsp;&nbsp;&nbsp;
    <a href="https://instagram.com/harilvfs">
        <picture>
-           <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://github.com/harilvfs/assets/blob/main/elix/instagram.png" />
-           <img height="24px" src="https://github.com/harilvfs/assets/blob/main/elix/instagram.png" />
+           <source height="25px" media="(prefers-color-scheme: dark)" srcset="https://github.com/harilvfs/assets/blob/main/elix/instagram.png" />
+           <img height="25px" src="https://github.com/harilvfs/assets/blob/main/elix/instagram.png" />
        </picture>
    </a>&nbsp;&nbsp;&nbsp;
    <a href="https://behance.com/aayushchalese">
