@@ -41,17 +41,17 @@
          <img height="26px" src="https://github.com/harilvfs/assets/blob/main/harilvfs/medium.png" />
      </picture>
    </a>&nbsp;&nbsp;&nbsp;
+        <a href="https://www.twitch.tv/aayushchalese">
+      <picture>
+         <source height="25px" media="(prefers-color-scheme: dark)" srcset="https://github.com/harilvfs/assets/blob/main/elix/twitch.png" />
+         <img height="25px" src="https://github.com/harilvfs/assets/blob/main/elix/twitch.png" />
+     </picture>
+   </a>&nbsp;&nbsp;&nbsp;
    <a href="https://x.com/harilvfs">
       <picture>
          <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/93124920/270180600-7c1b38bf-889b-4d68-bd5e-b9d86f91421a.png">
          <img height="24px" src="https://user-images.githubusercontent.com/93124920/270108715-d80743fa-b330-4809-b1e6-79fbdc60d09c.png" />
       </picture>
-   </a>&nbsp;&nbsp;&nbsp;
-       <a href="https://www.twitch.tv/aayushchalese">
-      <picture>
-         <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://github.com/harilvfs/assets/blob/main/elix/twitch.png" />
-         <img height="24px" src="https://github.com/harilvfs/assets/blob/main/elix/twitch.png" />
-     </picture>
    </a>&nbsp;&nbsp;&nbsp;
    <a href="https://www.youtube.com/@aayushchalese">
       <picture>
