@@ -12,12 +12,6 @@
 </div>
 
 <div align="center">
-  
-<a href="https://opencollective.com/carch"><img src="https://img.shields.io/badge/harilvfs-SPONSOR-9f39ef?style=for-the-badge&logo=github-sponsors&labelColor=2e2e2e" alt="Sponsor Me" />
-  </a>
-</div>
-
-<div align="center">
    <a href="https://discord.com/invite/8NJWstnUHd">
        <picture>
            <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/13122796/178032563-d4e084b7-244e-4358-af50-26bde6dd4996.png" />
