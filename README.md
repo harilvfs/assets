@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/archlinux/arch_linux.svg" />
+<img src="https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/archlinux/arch_linux.svg" width="50" />
 </div>
 
 <div align="center">
