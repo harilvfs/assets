@@ -84,7 +84,7 @@
      </picture>
    </a>
 </div>
-<br>
+
 <div align="center">
 <a href="https://chalisehari.com.np"><img alt="Visit the website" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/documentation/website_vector.svg"></a>
   </div>
