@@ -31,14 +31,14 @@
    </a>&nbsp;&nbsp;&nbsp;
    <a href="https://t.me/harilvfs">
       <picture>
-         <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/13122796/178032213-faf25ab8-0bc3-4a94-a730-b524c96df124.png" />
-         <img height="24px" src="https://user-images.githubusercontent.com/13122796/178032213-faf25ab8-0bc3-4a94-a730-b524c96df124.png" />
+         <source height="25px" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/13122796/178032213-faf25ab8-0bc3-4a94-a730-b524c96df124.png" />
+         <img height="25px" src="https://user-images.githubusercontent.com/13122796/178032213-faf25ab8-0bc3-4a94-a730-b524c96df124.png" />
       </picture>
    </a>&nbsp;&nbsp;&nbsp;
    <a href="https://medium.com/@aayushchalise">
       <picture>
-         <source height="25px" media="(prefers-color-scheme: dark)" srcset="https://github.com/harilvfs/assets/blob/main/harilvfs/medium.png" />
-         <img height="25px" src="https://github.com/harilvfs/assets/blob/main/harilvfs/medium.png" />
+         <source height="26px" media="(prefers-color-scheme: dark)" srcset="https://github.com/harilvfs/assets/blob/main/harilvfs/medium.png" />
+         <img height="26px" src="https://github.com/harilvfs/assets/blob/main/harilvfs/medium.png" />
      </picture>
    </a>&nbsp;&nbsp;&nbsp;
    <a href="https://x.com/harilvfs">
