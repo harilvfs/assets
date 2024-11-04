@@ -25,8 +25,8 @@
    </a>&nbsp;&nbsp;&nbsp;
    <a href="https://behance.com/aayushchalese">
       <picture>
-         <source height="25px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/harilvfs/behancex.svg" />
-         <img height="25px" src="https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/harilvfs/behancex.svg" />
+         <source height="26px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/harilvfs/behancex.svg" />
+         <img height="26px" src="https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/harilvfs/behancex.svg" />
      </picture>
    </a>&nbsp;&nbsp;&nbsp;
    <a href="https://t.me/harilvfs">
