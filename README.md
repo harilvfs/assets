@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-<img src="https://github.com/harilvfs/assets/blob/main/fyx/socialp.png" />
+<img src="https://github.com/harilvfs/assets/blob/main/fyx/socialp.png" width="50" />
 </div>
 
 <div align="center">
