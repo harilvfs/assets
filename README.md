@@ -1,3 +1,5 @@
+http://invidget.switchblade.xyz/https://discord.com/invite/8NJWstnUHd
+
 <div align="center">
 <strong> Note: This is for archival purposes only. Please do not use or modify this content. </strong>
 </div>
