@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://discord.com/invite/8NJWstnUHd">
-<img src="https://invidget.switchblade.xyz/8NJWstnUHd" width="300">
+<img src="https://invidget.switchblade.xyz/8NJWstnUHd" width="500">
 </a>
 </p>
 
