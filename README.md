@@ -88,13 +88,13 @@
 <div align="center">
 <a href="https://chalisehari.com.np"><img alt="Visit the website" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/documentation/website_vector.svg"></a>
   </div>
-<br>
+
 <p align="center">
 <a href="https://discord.com/invite/8NJWstnUHd">
-<img src="https://invidget.switchblade.xyz/8NJWstnUHd" width="200">
+<img src="https://invidget.switchblade.xyz/8NJWstnUHd" width="300">
 </a>
 </p>
-<br>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aayushx402&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet" alt="PROFILE  VIEWS">
 </p>
