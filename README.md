@@ -87,7 +87,7 @@
   </div>
 <br>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aayushx402&label=PROFILE%20VIEWS&style=for-the-badge&color=blueviolet" alt="PROFILE  VIEWS">
+  <img src="https://komarev.com/ghpvc/?username=aayushx402&label=PROFILE%20VIEWS&style=flat-square&color=blueviolet" alt="PROFILE  VIEWS">
 </p>
 
 <div align="center">
