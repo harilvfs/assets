@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/OS-Linux-FF6961?style=for-the-badge&logo=linux&logoColor=yellow&labelColor=gray" />
+  <img src="https://img.shields.io/badge/OS-Linux-FF6961?style=for-the-badge&logo=linux&color=dbb6ed&logoColor=85e185&labelColor=1c1c29" />
   <img src="https://img.shields.io/badge/Distro-Arch-00CED1?style=for-the-badge&logo=arch-linux&logoColor=blue&labelColor=gray" />
 </div>
 <div align="center">
