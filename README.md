@@ -14,12 +14,6 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/harilvfs">
-       <picture>
-           <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/dMMmCrW/Git-Hub-Mark.png" />
-           <img height="24px" src="https://i.ibb.co/9wV3HGF/Git-Hub-Mark-Light.png" />
-       </picture>
-   </a>&nbsp;&nbsp;&nbsp;
    <a href="https://discord.com/invite/8NJWstnUHd">
        <picture>
            <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/13122796/178032563-d4e084b7-244e-4358-af50-26bde6dd4996.png" />
@@ -31,18 +25,6 @@
            <source height="25px" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/13122796/178032351-9d9d5619-8ef7-470a-9eec-2744ece54553.png" />
            <img height="25px" src="https://user-images.githubusercontent.com/13122796/178032351-9d9d5619-8ef7-470a-9eec-2744ece54553.png" />
        </picture>
-   </a>&nbsp;&nbsp;&nbsp;
-   <a href="https://instagram.com/harilvfs">
-       <picture>
-           <source height="26px" media="(prefers-color-scheme: dark)" srcset="https://github.com/harilvfs/assets/blob/main/elix/insta.png" />
-           <img height="26px" src="https://github.com/harilvfs/assets/blob/main/elix/insta.png" />
-       </picture>
-   </a>&nbsp;&nbsp;&nbsp;
-   <a href="https://behance.com/aayushchalese">
-      <picture>
-         <source height="26px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/harilvfs/behancex.svg" />
-         <img height="26px" src="https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/harilvfs/behancex.svg" />
-     </picture>
    </a>&nbsp;&nbsp;&nbsp;
    <a href="https://t.me/harilvfs">
       <picture>
@@ -67,12 +49,6 @@
          <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/93124920/270180600-7c1b38bf-889b-4d68-bd5e-b9d86f91421a.png">
          <img height="24px" src="https://user-images.githubusercontent.com/93124920/270108715-d80743fa-b330-4809-b1e6-79fbdc60d09c.png" />
       </picture>
-   </a>&nbsp;&nbsp;&nbsp;
-   <a href="https://www.youtube.com/@aayushchalese">
-      <picture>
-         <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/13122796/178032714-c51c7492-0666-44ac-99c2-f003a695ab50.png" />
-         <img height="24px" src="https://user-images.githubusercontent.com/13122796/178032714-c51c7492-0666-44ac-99c2-f003a695ab50.png" />
-     </picture>
    </a>&nbsp;&nbsp;&nbsp;
    <a href="https://bsky.app/profile/chalisehari.com.np">
       <picture>
