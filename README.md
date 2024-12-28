@@ -27,8 +27,8 @@
 <div align="center">
    <a href="https://discord.com/invite/8NJWstnUHd">
        <picture>
-           <source height="40px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gauravghongde/social-icons/refs/heads/master/SVG/Black/Discord_black.svg" />
-           <img height="40px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/refs/heads/master/SVG/Black/Discord_black.svg" />
+           <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gauravghongde/social-icons/refs/heads/master/SVG/Black/Discord_black.svg" />
+           <img height="35px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/refs/heads/master/SVG/Black/Discord_black.svg" />
        </picture>
    </a>&nbsp;&nbsp;&nbsp;
    <a href="https://reddit.com/u/aayush-le">
