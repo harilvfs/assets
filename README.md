@@ -57,8 +57,8 @@
    </a>&nbsp;&nbsp;&nbsp;
    <a href="https://x.com/harilvfs">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/harilvfs/social-icons/raw/refs/heads/master/SVG/Black/Twitter_black.svg">
-         <img height="24px" src="https://github.com/harilvfs/social-icons/raw/refs/heads/master/SVG/Black/Twitter_black.svg" />
+         <source height="35px"  media="(prefers-color-scheme: dark)" srcset="https://github.com/harilvfs/social-icons/raw/refs/heads/master/SVG/Black/Twitter_black.svg">
+         <img height="35px" src="https://github.com/harilvfs/social-icons/raw/refs/heads/master/SVG/Black/Twitter_black.svg" />
       </picture>
    </a>
 </div>
