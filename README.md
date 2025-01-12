@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://img.shields.io/badge/OS-Linux-FF6961?style=for-the-badge&logo=linux&color=dbb6ed&logoColor=yellow&labelColor=1c1c29" />
 <br>
-<img src="https://img.shields.io/badge/DISTRO-1c1c29?style=for-the-badge&color=dbb6ed" />
+<img src="https://img.shields.io/badge/DISTRO-1c1c29?style=for-the-badge&color=1c1c29" />
   
   <img src="https://img.shields.io/badge/Fedora-00CED1?style=for-the-badge&logo=fedora&color=7dc4e4&logoColor=blue&labelColor=1c1c29" /> <img src="https://img.shields.io/badge/Arch-00CED1?style=for-the-badge&logo=arch-linux&color=7dc4e4&logoColor=blue&labelColor=1c1c29" />
 </div>
