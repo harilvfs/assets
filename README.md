@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Fedora-00CED1?style=for-the-badge&logo=fedora&color=7dc4e4&logoColor=blue" /> <img src="https://img.shields.io/badge/Arch-00CED1?style=for-the-badge&logo=arch-linux&color=7dc4e4&logoColor=blue&labelColor=1c1c29" />
+<img src="https://img.shields.io/badge/Fedora-00CED1?style=for-the-badge&logo=fedora&color=7dc4e4&logoColor=blue&labelColor=1c1c29" /> <img src="https://img.shields.io/badge/Arch-00CED1?style=for-the-badge&logo=arch-linux&color=7dc4e4&logoColor=blue&labelColor=1c1c29" />
 
 <p align="center">
 <a href="https://discord.com/invite/8NJWstnUHd">
