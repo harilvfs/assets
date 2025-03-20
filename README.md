@@ -1,6 +1,7 @@
-<div align="center">
-<strong> Note: This is for archival purposes only. Please do not use or modify this content. </strong>
-</div>
+> [!CAUTION]
+> **This is for archival purposes only. Please do not use or modify this content.**
+
+<br>
 
 <p align="center">
 <a href="https://discord.com/invite/8NJWstnUHd">
