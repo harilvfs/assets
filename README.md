@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Made%20with-React%20+%20TypeScript%20×%20Catppuccin-89B4FA?style=for-the-badge&logo=react&logoColor=white&labelColor=2b2b2b" alt="React TypeScript Catppuccin Badge" />
+  <img src="https://img.shields.io/badge/Made%20with-React%20&%20TypeScript-ffd5ff?style=for-the-badge&logo=react&logoColor=white&labelColor=2b2b2b" alt="React TypeScript Badge" />
 
 
 
