@@ -1,4 +1,4 @@
-  <img src="https://img.shields.io/badge/Made%20with-React%20&%20TypeScript-ffd5ff?style=for-the-badge&color=ef9f9c&logoColor=white&labelColor=2b2b2b" alt="React TypeScript Badge" />
+  <img src="https://img.shields.io/badge/Made%20with-React%20&%20TypeScript-ffd5ff?style=for-the-badge&color=ef9f9c&logoColor=white&labelColor=1c1c29&logo=react" alt="React TypeScript Badge" />
 
 
 
