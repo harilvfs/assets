@@ -1,6 +1,3 @@
-<img src="https://img.shields.io/badge/Distro-ArchLinux-cba6f7?style=for-the-badge&labelColor=11111b&color=9dc3ea&logo=arch-linux" />
-
-
 > [!CAUTION]
 > **This is for archival purposes only. Please do not use or modify this content.**
 
