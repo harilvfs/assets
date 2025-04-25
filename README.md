@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-React%20&%20TypeScript-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=2b2b2b" alt="React TypeScript Badge" />
-  <img src="https://img.shields.io/badge/Theme-Catppuccin-ffd5ff?style=for-the-badge&logoColor=white&logo=dropbox&labelColor=2b2b2b" alt="Catppuccin Theme Badge" />
-</p>
+<img src="https://img.shields.io/badge/Made%20with-React%20+%20TypeScript%20×%20Catppuccin-89B4FA?style=for-the-badge&logo=react&logoColor=white&labelColor=2b2b2b" alt="React TypeScript Catppuccin Badge" />
+
 
 
 > [!CAUTION]
