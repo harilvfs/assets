@@ -1,5 +1,4 @@
-[![Cloudflare Pages](https://img.shields.io/endpoint?url=https://cloudflare-pages-badges.teamcode.workers.dev/_/blog-site-50k.pages.dev)](https://blog-site-50k.pages.dev.pages.dev)
-
+[![Cloudflare Pages](https://img.shields.io/endpoint?url=https://cloudflare-pages-badges.teamcode.workers.dev/_/blog-site-50k)](https://blog-site-50k.pages.dev)
 
 > [!CAUTION]
 > **This is for archival purposes only. Please do not use or modify this content.**
