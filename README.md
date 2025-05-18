@@ -1,5 +1,3 @@
-![CI Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/harilvfs/carch/main/badges/status.json)
-
 > [!CAUTION]
 > **This is for archival purposes only. Please do not use or modify this content.**
 
