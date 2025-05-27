@@ -53,8 +53,9 @@ Now, the changes I will discuss we get compared to v4.0.0:
 
 - Many improvements, bug fixes, and **UI/UX enhancements with the Rust TUI**.
 - **Carch performance has improved now 80% faster than v4.0.0**.
-- Yeah, many things have happened these days in my personal life, but I never left this or sat around because at the end, this puts a **smile on my face**.
-- Doing this stuff, learning, and many things...
+
+Yeah, many things have happened these days in my personal life, but I never left this or sat around because at the end, this puts a **smile on my face**.
+Doing this stuff, learning, and many things...
 
 #### Ok, no more personal talk.  
 My life curve is just up and down I can't express it here, maybe I’ll tell somewhere.
