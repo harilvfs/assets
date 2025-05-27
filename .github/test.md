@@ -43,8 +43,8 @@ Here are some things I remember that have been added/changed:
 Here is the **side-by-side comparison** of v4.0.0 with v5.0.0:
 
 <p align="center">
-  <img src="v4_preview.gif" width="48%" />
-  <img src="v5_preview.gif" width="48%" />
+  <img src="https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/carch/preview_4.0.0.gif" width="48%" />
+  <img src="https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/carch/preview_5.0.0.gif" width="48%" />
 </p>
 
 You can see we now have a TUI that is *beautiful*, not gonna lie.
