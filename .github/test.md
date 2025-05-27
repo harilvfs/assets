@@ -30,7 +30,7 @@ Here are some things I remember that have been added/changed:
 - The documentation site has been **rewritten**. It now supports **multi-language**: [ 🇺🇸 ](https://carch.chalisehari.com.np) • [ 🇳🇵 ](https://carch.chalisehari.com.np/ne/) • [ 🇮🇳 ](https://carch.chalisehari.com.np/hi/) • [ 🇨🇳 ](https://carch.chalisehari.com.np/zh/) • [ 🇪🇸 ](https://carch.chalisehari.com.np/es/) • [ 🇦🇪 ](https://carch.chalisehari.com.np/ar/) • [ 🇫🇷 ](https://carch.chalisehari.com.np/fr/) • [ 🇰🇷 ](https://carch.chalisehari.com.np/ko/) • [ 🇩🇪 ](https://carch.chalisehari.com.np/de/) • [ 🇷🇺 ](https://carch.chalisehari.com.np/ru/)
 - The documentation site has been **massively improved**. Now all the guides are just simple enough that anyone can understand.
 - As well, now **more communities** can read this by switching the language.
-- Also, the main repo README is also available in different languages, as you can see there.
+- Also, the main repo [README](https://github.com/harilvfs/carch/blob/main/.github/README.md) is also available in different languages, as you can see there.
 - If you want to see Carch docs in your language, you can **contribute to Carch Docs** you can find the repo at [carch-org/docs](http://github.com/carch-org/docs)
 
 ### ⚡ Performance & UI/UX
