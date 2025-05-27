@@ -1,14 +1,10 @@
-wohhhhh
+It has been an awesome time working on Carch from [v4.0.0](https://github.com/harilvfs/carch/releases/tag/v4.0.0) to [v5.0.0](https://github.com/harilvfs/carch/releases/tag/v5.0.0).
 
-#### Let's gooo!  
-Finally, we are on **v5.0.0** of the Carch release. This has been a massive improvement back and forth and fun working from part version [4.0.0](https://github.com/harilvfs/carch/releases/tag/v4.0.0). I think from v4.0.0 to v5.0.0 it's been about **5 months** and with **1.4k+ commits** on the repo including the docs part. Yeah, it's a lot... or kind of not too. But yeah, there is massive improvement on Carch. 
+With 5 months of time and 1.4k+ commits, it has been an insane time for Carch improvement.
 
-Also, I have learned many, many things while working on this project.Learned a lot about how things work, explored many new things as well, and a lot more too. Many headaches and frustrations came with it, but that's okay. I can't express it, but I am very happy that Carch is at this point, as this started as just a kind of test script I was doing here and there in my starting days of Linux. But today, with Carch, I have learned a lot about Linux, as well as scripting and many more things that you can clearly see in this project.
+As we obviously improved a lot compared to v4.0.0.
 
-Yeah, first of all, thanks to the Linux community. Yeah, they have insane level projects and give time to them with no expectation in return. Appreciate their effort always. The main reason Carch has come to this point is mainly because of this community and kind of me too. Like I do here and there, see new stuff, see how things work, learn new things as Linux is always a learning curve for me or for anyone else. Yeah, thanks to all. And **you**, who are reading this also thanks for that.
-
-#### Ok, enough yapping.  
-Now, the changes I will discuss we get compared to v4.0.0:
+Here are some things I remember that have been added/changed:
 
 ### 🚀 Rust Implementation
 
@@ -30,8 +26,8 @@ Now, the changes I will discuss we get compared to v4.0.0:
 
 ### 📚 Docs
 
-- Main thing I’ve been working on for the past days is the **documentation site**.
-- The documentation site has been **rewritten**. It now supports **multi-language**: 🇺🇸 • 🇳🇵 • 🇮🇳 • 🇨🇳 • 🇪🇸 • 🇦🇪 • 🇫🇷 • 🇰🇷 • 🇩🇪 • 🇷🇺
+- Main thing I’ve been working on for the past days is the **[documentation site](https://carch.chalisehari.com.np)**.
+- The documentation site has been **rewritten**. It now supports **multi-language**: [ 🇺🇸 ](https://carch.chalisehari.com.np) • [ 🇳🇵 ](https://carch.chalisehari.com.np/ne/) • [ 🇮🇳 ](https://carch.chalisehari.com.np/hi/) • [ 🇨🇳 ](https://carch.chalisehari.com.np/zh/) • [ 🇪🇸 ](https://carch.chalisehari.com.np/es/) • [ 🇦🇪 ](https://carch.chalisehari.com.np/ar/) • [ 🇫🇷 ](https://carch.chalisehari.com.np/fr/) • [ 🇰🇷 ](https://carch.chalisehari.com.np/ko/) • [ 🇩🇪 ](https://carch.chalisehari.com.np/de/) • [ 🇷🇺 ](https://carch.chalisehari.com.np/ru/)
 - The documentation site has been **massively improved**. Now all the guides are just simple enough that anyone can understand.
 - As well, now **more communities** can read this by switching the language.
 - Also, the main repo README is also available in different languages, as you can see there.
@@ -64,5 +60,5 @@ Yeah, a lot of effort. Working 12 hours on some days it’s been a hard time, bu
 
 **Enjoy the update Carch will be improved more in the upcoming days as long as I maintain this.**
 
-Thanks for all.  
-**Much love ❤️**
+Much love,  
+**Hari ❤️**
