@@ -33,6 +33,8 @@ Here are some things I remember that have been added/changed:
 - Also, the main repo [README](https://github.com/harilvfs/carch/blob/main/.github/README.md) is also available in different languages, as you can see there.
 - If you want to see Carch docs in your language, you can **contribute to Carch Docs** you can find the repo at [carch-org/docs](http://github.com/carch-org/docs)
 
+I am fucking smiling all the time seeing the [docs](https://carch.chalisehari.com.np) because it is the **most beautiful thing I have ever made or seen**, with those multi language options…
+
 ### ⚡ Performance & UI/UX
 
 - Many improvements, bug fixes, and **UI/UX enhancements with the Rust TUI**.
@@ -67,8 +69,6 @@ And at last, this is the **version 5.0.0**, and I am very happy to announce this
 Version 4 has been a great time for improvement.
 
 Also, thanks to contributors who contributed to this project.
-
-I am fucking smiling all the time seeing the [docs](https://carch.chalisehari.com.np) because it is the **most beautiful thing I have ever made or seen**, with those multi language options…
 
 Yeah, a lot of effort. Working 12 hours on some days it’s been a hard time, but I **enjoyed it a lot**.
 
