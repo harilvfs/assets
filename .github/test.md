@@ -1,7 +1,7 @@
 wohhhhh
 
 #### Let's gooo!  
-Finally, we are on **v5.0.0** of the Carch release. This has been a massive improvement back and forth and fun working from part version 4.0.0.
+Finally, we are on **v5.0.0** of the Carch release. This has been a massive improvement back and forth and fun working from part version [4.0.0](https://github.com/harilvfs/carch/releases/tag/v4.0.0).
 
 I think from v4.0.0 to v5.0.0 it's been about **5 months** and with **1.4k+ commits** on the repo including the docs part. Yeah, it's a lot... or kind of not too.
 
