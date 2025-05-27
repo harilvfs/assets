@@ -1,23 +1,7 @@
 wohhhhh
 
 #### Let's gooo!  
-Finally, we are on **v5.0.0** of the Carch release. This has been a massive improvement back and forth and fun working from part version [4.0.0](https://github.com/harilvfs/carch/releases/tag/v4.0.0).
-
-I think from v4.0.0 to v5.0.0 it's been about **5 months** and with **1.4k+ commits** on the repo including the docs part. Yeah, it's a lot... or kind of not too.
-
-But yeah, there is massive improvement on Carch. Also, I have learned many, many things while working on this project.
-
-Learned a lot about how things work, explored many new things as well, and a lot more too. Many headaches and frustrations came with it, but that's okay.
-
-I can't express it, but I am very happy that Carch is at this point, as this started as just a kind of test script I was doing here and there in my starting days of Linux.
-
-But today, with Carch, I have learned a lot about Linux, as well as scripting and many more things that you can clearly see in this project.
-
-Yeah, first of all, thanks to the Linux community. Yeah, they have insane level projects and give time to them with no expectation in return. Appreciate their effort always.
-
-The main reason Carch has come to this point is mainly because of this community and kind of me too. Like I do here and there, see new stuff, see how things work, learn new things as Linux is always a learning curve for me or for anyone else.
-
-Yeah, thanks to all. And **you**, who are reading this also thanks for that.
+Finally, we are on **v5.0.0** of the Carch release. This has been a massive improvement back and forth and fun working from part version [4.0.0](https://github.com/harilvfs/carch/releases/tag/v4.0.0).I think from v4.0.0 to v5.0.0 it's been about **5 months** and with **1.4k+ commits** on the repo including the docs part. Yeah, it's a lot... or kind of not too. But yeah, there is massive improvement on Carch. Also, I have learned many, many things while working on this project.Learned a lot about how things work, explored many new things as well, and a lot more too. Many headaches and frustrations came with it, but that's okay. I can't express it, but I am very happy that Carch is at this point, as this started as just a kind of test script I was doing here and there in my starting days of Linux. But today, with Carch, I have learned a lot about Linux, as well as scripting and many more things that you can clearly see in this project. Yeah, first of all, thanks to the Linux community. Yeah, they have insane level projects and give time to them with no expectation in return. Appreciate their effort always. The main reason Carch has come to this point is mainly because of this community and kind of me too. Like I do here and there, see new stuff, see how things work, learn new things as Linux is always a learning curve for me or for anyone else. Yeah, thanks to all. And **you**, who are reading this also thanks for that.
 
 #### Ok, enough yapping.  
 Now, the changes I will discuss we get compared to v4.0.0:
