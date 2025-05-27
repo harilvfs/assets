@@ -13,7 +13,7 @@ I can't express it, but I am very happy that Carch is at this point, as this sta
 
 But today, with Carch, I have learned a lot about Linux, as well as scripting and many more things that you can clearly see in this project.
 
-Yeah, first of all, thanks to the Linux community. Yeah, they have insane-level projects and give time to them with no expectation in return. Appreciate their effort always.
+Yeah, first of all, thanks to the Linux community. Yeah, they have insane level projects and give time to them with no expectation in return. Appreciate their effort always.
 
 The main reason Carch has come to this point is mainly because of this community and kind of me too. Like I do here and there, see new stuff, see how things work, learn new things as Linux is always a learning curve for me or for anyone else.
 
