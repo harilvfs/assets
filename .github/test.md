@@ -70,7 +70,7 @@ Version 4 has been a great time for improvement.
 
 Also, thanks to contributors who contributed to this project.
 
-I am fucking smiling all the time seeing the docs because it is the **most beautiful thing I have ever made or seen**, with those multi language options…
+I am fucking smiling all the time seeing the [docs](https://carch.chalisehari.com.np) because it is the **most beautiful thing I have ever made or seen**, with those multi language options…
 
 Yeah, a lot of effort. Working 12 hours on some days it’s been a hard time, but I **enjoyed it a lot**.
 
