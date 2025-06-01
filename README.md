@@ -1,6 +1,6 @@
 [![Deps Badge]][Deps]
 
-[Deps Badge]: https://deps.rs/repo/github/harilvfs/carch/status.svg?path=ratatui&style=flat-square
+[Deps Badge]: https://deps.rs/repo/github/harilvfs/carch/status.svg?style=flat-square
 [Deps]: https://deps.rs/repo/github/harilvfs/carch
 
 > [!CAUTION]
