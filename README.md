@@ -1,7 +1,7 @@
 [![Deps Badge]][Deps]
 
-[Deps Badge]: https://deps.rs/repo/github/harilvfs/carch/status.svg?path=/&style=flat-square
-[Deps]: https://deps.rs/repo/github/harilvfs/carch?path=/
+[Deps Badge]: https://deps.rs/repo/github/harilvfs/carch/status.svg?path=%2F&style=flat-square
+[Deps]: https://deps.rs/repo/github/harilvfs/carch?path=%2F
 
 > [!CAUTION]
 > **This is for archival purposes only. Please do not use or modify this content.**
