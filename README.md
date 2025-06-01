@@ -1,6 +1,6 @@
 [![Deps Badge]][Deps]
 
-[Deps Badge]: https://deps.rs/repo/github/harilvfs/carch/status.svg?path=%2F&style=for-the-badge&color=eed49f&labelColor=1c1c29&logo=rust
+[Deps Badge]: https://deps.rs/repo/github/harilvfs/carch/status.svg?path=%2F
 [Deps]: https://deps.rs/repo/github/harilvfs/carch?path=%2F
 
 > [!CAUTION]
