@@ -1,6 +1,3 @@
-<img src="https://img.shields.io/github/license/harilvfs/carch?color=babbf1&labelColor=1c1c29&style=flat-square&logo=github&logoColor=babbf1" />
-
-
 > [!CAUTION]
 > **This is for archival purposes only. Please do not use or modify this content.**
 
