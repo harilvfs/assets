@@ -1,8 +1,4 @@
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/siy2vL94yd0" 
-title="ML4W Hyprland Installation" frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-allowfullscreen></iframe>
-
+[![Watch the video](https://img.youtube.com/vi/siy2vL94yd0/hqdefault.jpg)](https://www.youtube.com/watch?v=siy2vL94yd0)
 
 > [!CAUTION]
 > **This is for archival purposes only. Please do not use or modify this content.**
