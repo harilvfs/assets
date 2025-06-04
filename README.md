@@ -12,8 +12,6 @@ This package includes an installation script to install and set up the required 
 
 **Youtube Video**
 
-</div>
-
 <a href="https://www.youtube.com/watch?v=siy2vL94yd0" target="_blank">
   <img
     src="https://img.youtube.com/vi/siy2vL94yd0/maxresdefault.jpg"
@@ -22,6 +20,8 @@ This package includes an installation script to install and set up the required 
     align="center"
   />
 </a>
+
+</div>
 
 ## Installation
 
