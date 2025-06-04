@@ -8,7 +8,20 @@ This package includes an installation script to install and set up the required 
 
 > About the screenshot: The dock can be enabled in the ML4W Sidebar or Settings app. The waybar theme is ML4W Modern Light.
 
-[![Watch ML4W Hyprland Installation](https://img.youtube.com/vi/siy2vL94yd0/maxresdefault.jpg)](https://www.youtube.com/watch?v=siy2vL94yd0)
+<div align="center">
+
+**Youtube Video**
+
+</div>
+
+<a href="https://www.youtube.com/watch?v=siy2vL94yd0" target="_blank">
+  <img
+    src="https://img.youtube.com/vi/siy2vL94yd0/maxresdefault.jpg"
+    alt="Watch ML4W Hyprland Installation"
+    width="50%"
+    align="center"
+  />
+</a>
 
 ## Installation
 
