@@ -16,7 +16,7 @@ This package includes an installation script to install and set up the required 
   <img
     src="https://img.youtube.com/vi/siy2vL94yd0/maxresdefault.jpg"
     alt="Watch ML4W Hyprland Installation"
-    width="50%"
+    width="30%"
     align="center"
   />
 </a>
