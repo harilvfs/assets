@@ -1,6 +1,6 @@
 <a href="https://www.youtube.com/watch?v=siy2vL94yd0" target="_blank">
   <img
-    src="https://img.youtube.com/vi/siy2vL94yd0/default.jpg"
+    src="https://img.youtube.com/vi/siy2vL94yd0/maxresdefault.jpg"
     alt="Watch ML4W Hyprland Installation"
     width="50%"
     align="right"
