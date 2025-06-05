@@ -15,12 +15,12 @@
    bash <(curl -s "https://end-4.github.io/dots-hyprland-wiki/setup.sh")
    ```
 
-    > [!TIP]
-    > if you are using fish shell (non-posix-compliant shell) then:
+   > [!TIP]
+   > if you are using fish shell (non-posix-compliant shell) then:
     
-    ```bash
-    bash -c "$(curl -s https://end-4.github.io/dots-hyprland-wiki/setup.sh)"
-    ```
+   ```bash
+   bash -c "$(curl -s https://end-4.github.io/dots-hyprland-wiki/setup.sh)"
+   ```
 
    - **Manual** installation, other distros and more:
      - See the [Wiki](https://end-4.github.io/dots-hyprland-wiki/en/i-i/01setup/)
