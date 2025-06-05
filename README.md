@@ -15,9 +15,7 @@
    bash <(curl -s "https://end-4.github.io/dots-hyprland-wiki/setup.sh")
    ```
 
-   > [!TIP]
-   > if you are using fish shell (non-posix-compliant shell) then:
-    
+   If you are using fish shell (non-posix-compliant shell) then:
    ```bash
    bash -c "$(curl -s https://end-4.github.io/dots-hyprland-wiki/setup.sh)"
    ```
