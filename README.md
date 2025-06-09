@@ -11,5 +11,5 @@
 </a>
 </p>
 
-[built-with-ratatui]: https://img.shields.io/badge/Built%20With-Ratatui-black?style=flat&logo=rust&logoColor=white&labelColor=171b22
+[built-with-ratatui]: https://img.shields.io/badge/Built%20With-Ratatui-171b22?style=flat&logo=rust&logoColor=white&labelColor=black
 [ratatui-link]: https://github.com/ratatui/ratatui
