@@ -2,7 +2,8 @@
 <img src="https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/ratatui-badge1.svg"/>
 
 
-[![test][https://harilvfs.github.io/assets/assets/badge.svg]](https://ratatui.rs/)
+[![test](https://harilvfs.github.io/assets/assets/badge.svg)](https://ratatui.rs/)
+
 
 > [!CAUTION]
 > **This is for archival purposes only. Please do not use or modify this content.**
