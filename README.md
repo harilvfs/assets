@@ -1,4 +1,6 @@
 <img src="https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/ratatui-badge.svg"/>
+<img src="https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/ratatui-badge.svg"/>
+
 
 > [!CAUTION]
 > **This is for archival purposes only. Please do not use or modify this content.**
