@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/ratatui-badge.svg"/>
-<img src="https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/ratatui-badge.svg"/>
+<img src="https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/ratatui-badge1.svg"/>
 
 
 > [!CAUTION]
