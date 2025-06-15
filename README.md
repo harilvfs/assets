@@ -1,7 +1,7 @@
 | **** | **imgshield style badge** | **shields.rs generated badge** |
-|------------|---------|---------|
-| **link** | [imgshield one](https://harilvfs.github.io/assets/ratatui/badge-imgshield.svg) | [shields generated](https://harilvfs.github.io/assets/ratatui/badge.svg) |
-| **style** | Imgshield style | Shields.rs style |
+|---------|---------|---------|
+| **badge preview** | ![](https://harilvfs.github.io/assets/ratatui/badge-imgshield.svg) | ![](https://harilvfs.github.io/assets/ratatui/badge.svg) |
+| **style** | Imgshield | Shields.rs |
 | **generator** | imgshield | shields.rs |
 
 
