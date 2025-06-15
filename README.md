@@ -1,9 +1,10 @@
-<img src="https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/ratatui-badge.svg"/>
-<img src="https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/ratatui-badge1.svg"/>
+<img src="https://harilvfs.github.io/assets/ratatui/ratatui-badge.svg"/>
+<img src="https://harilvfs.github.io/assets/ratatui/ratatui-badge1.svg"/>
 
 
-[![test](https://harilvfs.github.io/assets/badge.svg)](https://ratatui.rs/)
+[![test](https://harilvfs.github.io/assets/ratatui/badge-imgshield.svg)](https://ratatui.rs/)
 
+[![shields](https://harilvfs.github.io/assets/ratatui/badge.svg)](https://ratatui.rs)
 
 > [!CAUTION]
 > **This is for archival purposes only. Please do not use or modify this content.**
