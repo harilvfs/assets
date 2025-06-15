@@ -1,3 +1,10 @@
+| **** | **imgshield style badge** | **shields.rs generated badge** |
+|---------|---------|---------|
+| **badge preview** | ![](https://harilvfs.github.io/assets/ratatui/badge-imgshield.svg) | ![](https://harilvfs.github.io/assets/ratatui/badge.svg) |
+| **style** | Imgshield | Shields.rs |
+| **generator** | imgshield | shields.rs |
+
+
 <img src="https://harilvfs.github.io/assets/ratatui/ratatui-badge.svg"/>
 <img src="https://harilvfs.github.io/assets/ratatui/ratatui-badge1.svg"/>
 
