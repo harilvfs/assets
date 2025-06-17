@@ -6,7 +6,7 @@ basically i am having a conversation with @joshka and @orhun about using bun ins
 
 ### what is bun?
 
-if you haven’t heard of bun, it’s a javascript runtime, packager, bundler, test runner kind of all in one.  
+if you haven’t heard of bun, it’s a javascript runtime, packager, bundler, test runner (kind of all in one).  
 it’s designed to be much faster than npm and other tools.  
 i will not take more long about the intro, you can view [bun site](https://bun.sh/) and [bun github](https://github.com/oven-sh/bun).
 
