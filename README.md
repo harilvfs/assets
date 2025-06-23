@@ -1,3 +1,8 @@
+# 
+
+[![Contributors](https://contrib.rocks/image?repo=mylinuxforwork/dotfiles)](https://github.com/mylinuxforwork/dotfiles/graphs/contributors)
+
+
 > [!CAUTION]
 > **This is for archival purposes only. Please do not use or modify this content.**
 
