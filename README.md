@@ -1,6 +1,7 @@
 # Contributors 
 
-This modern Hyprland dotfiles setup wouldn’t be what it is now without the amazing people who helped improve, test, and refine it. Thanks to all contributors for shaping this into a better experience for everyone! 💖
+Thanks to all the contributors who helped find bugs, test, refine, and submit PRs!  
+Your valuable efforts are truly appreciated! 💖 
 
 [![contributors](https://contrib.rocks/image?repo=mylinuxforwork/dotfiles)](https://github.com/mylinuxforwork/dotfiles/graphs/contributors)
 
