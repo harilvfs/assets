@@ -1,6 +1,8 @@
-# 
+# Contributors 
 
-[![Contributors](https://contrib.rocks/image?repo=mylinuxforwork/dotfiles)](https://github.com/mylinuxforwork/dotfiles/graphs/contributors)
+This modern Hyprland dotfiles setup wouldn’t be what it is now without the amazing people who helped improve, test, and refine it. Thanks to all contributors for shaping this into a better experience for everyone! 💖
+
+[![contributors](https://contrib.rocks/image?repo=mylinuxforwork/dotfiles)](https://github.com/mylinuxforwork/dotfiles/graphs/contributors)
 
 
 > [!CAUTION]
