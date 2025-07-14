@@ -1,6 +1,3 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/harilvfs/carch?style=for-the-badge)
-
-
 > [!CAUTION]
 > **This is for archival purposes only. Please do not use or modify this content.**
 
