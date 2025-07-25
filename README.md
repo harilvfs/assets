@@ -63,7 +63,7 @@ nix profile install github:akiomik/mado
 ### Arch Linux (Linux)
 
 ```bash
-sudo pacman -S mado
+pacman -S mado
 ```
 
 ### Scoop (Windows)
