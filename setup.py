@@ -203,7 +203,13 @@ def cmd_run(mode):
 
 def main():
     args = sys.argv[1:]
-    if not args or args[0] == "--install":
+    if not args:
+        print(f"{RED}Usage:{NC} setup.py [--install|--dev|--stable]")
+        print(f"  {YELLOW}--install{NC}  Install via package manager")
+        print(f"  {YELLOW}--dev{NC}      Download and run dev binary")
+        print(f"  {YELLOW}--stable{NC}   Download and run stable binary")
+        sys.exit(1)
+    elif args[0] == "--install":
         cmd_install()
     elif args[0] == "--dev":
         cmd_run("dev")
@@ -215,4 +221,8 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except KeyboardInterrupt:
+        print()
+        sys.exit(130)
